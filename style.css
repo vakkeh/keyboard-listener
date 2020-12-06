@@ -1,0 +1,27 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+}
+
+.centered-text {
+	font-size: 5vh;
+	text-align: center; 
+	width: 70%; 
+	position: absolute;  
+	left: 50%;       
+	top: 50%;       
+	transform: translate(-50%, -50%);
+	color: white;
+	white-space: pre-wrap
+}
+
+.new {
+	font-size: 20vh;
+}
